@@ -1,5 +1,7 @@
 # Java Audio Player
 
+<p align="center"><img src="./jukeboxlogo.jpg" width="680" alt="Logo"></p>
+
 This project implements a simple audio player using Java, with support for multiple audio file formats, including MP3, WAV, and OGG. It includes a fully functional graphical user interface (GUI) built with JavaFX, allowing users to play, pause, stop, and skip through songs in a playlist.
 
 ## Features
