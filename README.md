@@ -2,6 +2,24 @@
 
 <p align="center"><img src="./jukeboxlogo.jpg" width="680" alt="Logo"></p>
 
+<div align="center">
+
+![Last Commit](https://img.shields.io/github/last-commit/Qaazh/JavaMp3Player?label=last%20commit&color=2563eb)
+![Top Language](https://img.shields.io/github/languages/top/Qaazh/JavaMp3Player?color=2563eb)
+![Languages](https://img.shields.io/github/languages/count/Qaazh/JavaMp3Player?label=languages&color=f59e0b)
+
+### Built with the tools and technologies
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![MP3](https://img.shields.io/badge/MP3-FF5722?style=for-the-badge&logo=files&logoColor=white)
+![WAV](https://img.shields.io/badge/WAV-4CAF50?style=for-the-badge&logo=files&logoColor=white)
+![OGG](https://img.shields.io/badge/OGG-9C27B0?style=for-the-badge&logo=files&logoColor=white)
+![M3U](https://img.shields.io/badge/M3U-2196F3?style=for-the-badge&logo=playlist&logoColor=white)
+
+</div>
+
 This project implements a simple audio player using Java, with support for multiple audio file formats, including MP3, WAV, and OGG. It includes a fully functional graphical user interface (GUI) built with JavaFX, allowing users to play, pause, stop, and skip through songs in a playlist.
 
 ## Features
